@@ -1,0 +1,26 @@
+
+
+.text-style:hover Button {
+    text-decoration: none;
+    color: #121fd1;
+    text-decoration: none
+
+}
+.text-style-fullscrn{
+    text-decoration: none;
+    font-family:"Helvetica Neue",Helvetica,8;
+}
+.text-style Button{
+    text-transform: capitalize;
+}
+
+
+
+
+
+ .MenuItem:hover {
+    /* background-color: rgb(49, 18, 187) */
+    color: black;
+    background: #000;
+    
+}
